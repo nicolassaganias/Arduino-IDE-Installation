@@ -11,9 +11,7 @@ más info: https://www.geekfactory.mx/tutoriales/tutoriales-arduino/driver-ch340
 
 ## PASOS PARA LA INSTALACIÓN
 
-1. descargar el archivo instalacion-arduino.zip
-2. descomprimir el archivo instalacion-arduino.zip
-3. abrir la carpeta /driver-ch340
-4. instalar el driver según tu sistema operativo
-5. abrir carpeta arduino-ide
-6. instalar arduino según tu sistema operativo
+1. Descargar el archivo de instalación desde la web oficial de Arduino
+2. Instalar Arduino
+3. Descargar el driver ch340 desde la carpeta Downloads/driver-ch340
+4. Instalar el driver según tu sistema operativo
